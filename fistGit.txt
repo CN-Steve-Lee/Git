@@ -1,3 +1,4 @@
-hello,world!
+hello,world!\n
 hello,git
-hi,giiiithub
+hi,g1thub
+hi,hello!
